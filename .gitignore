@@ -1,0 +1,13 @@
+# Go binaries
+pve-wol
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Environments
+.env
+id_ed25519
